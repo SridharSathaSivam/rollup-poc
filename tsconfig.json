@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es6",
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "noEmitHelpers": true,
+        "importHelpers": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "compileOnSave": false
+}
